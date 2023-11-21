@@ -1,0 +1,9 @@
+streamlit==1.28.2
+langchain==0.0.338
+pinecone-client==2.2.4
+python-dotenv==1.0.0
+sentence-transformers==2.2.2
+ctransformers==0.2.27
+streamlit_chat==0.1.1
+pypdf==3.17.1
+BeautifulSoup4==4.12.2
