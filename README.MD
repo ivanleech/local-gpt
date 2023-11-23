@@ -1,6 +1,6 @@
 # Local-GPT🚀
 ![local-GPT](./assets/local-gpt.png)
-Local-GPT let's you host your LLM locally. This GGUF format is suitable for CPU usage. The CPU version is slower but still usable. 
+Local-GPT let's you host your LLM locally. The GGUF format that the code uses is suitable for CPU usage. The CPU version is slower but still usable. 
 It's a great way to handle sensitive data, free to use and allows offline access.
 
 
