@@ -51,8 +51,8 @@ The chat history is stored in the streamlit app. This allows the LLM to generate
 We can see the context of 'him' is Sam Altman. The LLM is able to generate response based on the context from previous chat.
 
 
-#### Note
-It might be challenging to install llama-cpp-python. What worked for me was to install cxx-compiler first so that the c++ compiler uses conda compiler instead of the default. 
+#### Note for self
+It might be challenging to install llama-cpp-python. What worked for me was to install cxx-compiler first so that the c++ compilation uses conda compiler instead of the default. 
 ```
 conda install -c conda-forge cxx-compiler
 pip install llama-cpp-python
