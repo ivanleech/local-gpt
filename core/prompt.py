@@ -30,3 +30,7 @@ def run_llm(query: str, chat_history: List[Dict[str, Any]] = []):
         llm=chat_llm, retriever=docsearch.as_retriever(), return_source_documents=True
     )
     return qa({"question": query, "chat_history": chat_history})
+
+
+if __name__ == "__main__":
+    print(run_llm("What is your name?"))

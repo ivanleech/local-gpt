@@ -7,3 +7,4 @@ ctransformers==0.2.27
 streamlit_chat==0.1.1
 pypdf==3.17.1
 BeautifulSoup4==4.12.2
+llama_cpp_python==0.2.27
