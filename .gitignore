@@ -1,3 +1,6 @@
 .env
 
 utils/.streamlit
+
+*.pyc
+*.pyo
